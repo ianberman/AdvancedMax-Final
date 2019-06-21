@@ -7,4 +7,4 @@ Open the main patch for a detailed readme.
 
 Requires IRCAM's MuBu. I recommend using Loopback or Soundflower etc. for ease of realtime audio classification but it's not necessary.
 
-Comments, questions, feedback: twitter: @speculativename
+Comments, questions, feedback: twitter- @speculativename
